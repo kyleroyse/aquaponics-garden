@@ -1,2 +1,3 @@
 # aquaponics-garden
-interfacing with an arduiono using ionic
+
+This project aims to be able to control a garden with an ionic app and a set of arduino boards. The idea is to be able to control the Arduino boards from the web app, by using a web server. 
